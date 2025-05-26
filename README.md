@@ -11,8 +11,8 @@ A aplicação consiste em um site onde o usuário pode adicionar entradas e saí
 ## Apps
 - VsCode
 
-## 📔 Linguagem de programção
-- JavaScript / HTML / CSS -> Integrado em Styles.js
+## 📔 Linguagem de programação
+- JavaScript / HTML / CSS 
 
 ## Como executar o projeto
 
